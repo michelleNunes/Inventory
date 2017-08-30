@@ -1,9 +1,9 @@
 <?php
 	
-	$localhost = "BRAM02";
+	$localhost = "server";
 	$db = "Inventory";
-	$user = "aps";
-	$password = "APSpassW0RD3582";
+	$user = "your user";
+	$password = "password";
 
 	$conn = array("Database"=>$db,"UID"=>$user,"PWD"=>$password);
 
